@@ -1,0 +1,12 @@
+{
+  "name": "curso-api-rest-practico",
+  "version": "1.0.0",
+  "description": "Curso practico de consumo de api rest",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Martin Coronel",
+  "license": "MIT"
+}
